@@ -1,0 +1,9 @@
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.csproj.AssemblyReference.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.AssemblyInfoInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.AssemblyInfo.cs
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.csproj.CoreCompileInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\bin\Debug\net48\ModuleLogin.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\bin\Debug\net48\ModuleLogin.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.pdb

@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\bin\Debug\Buoi6.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\bin\Debug\Buoi6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\bin\Debug\Buoi6.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi6\Buoi6\obj\Debug\Buoi6.pdb
+E:\Buoi6\Buoi6\bin\Debug\Buoi6.exe.config
+E:\Buoi6\Buoi6\bin\Debug\Buoi6.exe
+E:\Buoi6\Buoi6\bin\Debug\Buoi6.pdb
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.AssemblyReference.cache
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.Form1.resources
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.Properties.Resources.resources
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.GenerateResource.cache
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.CoreCompileInputs.cache
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.exe
+E:\Buoi6\Buoi6\obj\Debug\Buoi6.pdb

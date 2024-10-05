@@ -1,0 +1,11 @@
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.UserControl1.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.AssemblyInfoInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.AssemblyInfo.cs
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\bin\Debug\net48\WinFormsControlLibrary1.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\bin\Debug\net48\WinFormsControlLibrary1.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\WinFormsControlLibrary1\obj\Debug\net48\WinFormsControlLibrary1.pdb
