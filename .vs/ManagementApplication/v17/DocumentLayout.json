@@ -3,55 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmperiodicreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmperiodicreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmperiodicreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\modulelogin\\modulelogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|solutionrelative:modulelogin\\modulelogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmshippingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmshippingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmproductcategorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductcategorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmemployeeaccountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmemployeeaccountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmemployeeaccountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmdiscountandpromotionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmdiscountandpromotionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmdiscountandpromotionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -59,8 +27,96 @@
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\managementapplication\\frmcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmproductcategorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductcategorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmshippingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmshippingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmemployeeaccountmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmemployeeaccountmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmperiodicreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmperiodicreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmrolemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmrolemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmordermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmordermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmproductcategorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductcategorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmshippingmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmshippingmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmdiscountandpromotionmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmdiscountandpromotionmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frmproductmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frmproductmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\frminventorymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\frminventorymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\modulelogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|solutionrelative:modulelogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\modulelogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|solutionrelative:modulelogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\managementapplication\\dal\\dbcontext.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A4A7E-0C1B-4AC9-AE62-4BD2D63BB7CE}|ManagementApplication\\ManagermentApplication.csproj|solutionrelative:managementapplication\\dal\\dbcontext.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|c:\\users\\tjnk1\\onedrive\\m\u00E1y t\u00EDnh\\managementapplication\\modulelogin\\modulelogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741A58FB-5501-4D7B-981B-68EF19674909}|ModuleLogin\\ModuleLogin.csproj|solutionrelative:modulelogin\\modulelogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,69 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmShippingManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmShippingManagement.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmShippingManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:18.13Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Home.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\Home.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Home.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:18.76Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\Login.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:20.455Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Program.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Program.cs",
-              "RelativeToolTip": "ManagementApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:19.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModuleLogin.csproj",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\ModuleLogin.csproj",
-              "RelativeDocumentMoniker": "ModuleLogin\\ModuleLogin.csproj",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\ModuleLogin.csproj",
-              "RelativeToolTip": "ModuleLogin\\ModuleLogin.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-05T14:44:56.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmPeriodicReport.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmPeriodicReport.cs",
               "RelativeDocumentMoniker": "ManagementApplication\\frmPeriodicReport.cs",
@@ -152,55 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmInventoryManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmInventoryManagement.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmInventoryManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:11.44Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmRoleManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmRoleManagement.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmRoleManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:17.363Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmProductManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmProductManagement.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmProductManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:15.798Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmProductCategorization.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmProductCategorization.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmProductCategorization.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:16.595Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "frmOrderManagement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmOrderManagement.cs",
               "RelativeDocumentMoniker": "ManagementApplication\\frmOrderManagement.cs",
@@ -212,7 +158,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "frmInventoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmInventoryManagement.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmInventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:11.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmEmployeeAccountManagement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmEmployeeAccountManagement.cs",
               "RelativeDocumentMoniker": "ManagementApplication\\frmEmployeeAccountManagement.cs",
@@ -224,19 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmDiscountAndPromotionManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.cs",
-              "RelativeDocumentMoniker": "ManagementApplication\\frmDiscountAndPromotionManagement.cs",
-              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.cs [Design]",
-              "RelativeToolTip": "ManagementApplication\\frmDiscountAndPromotionManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:11:08.747Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "frmCustomerManagement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmCustomerManagement.cs",
               "RelativeDocumentMoniker": "ManagementApplication\\frmCustomerManagement.cs",
@@ -248,16 +194,294 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDiscountAndPromotionManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmDiscountAndPromotionManagement.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmDiscountAndPromotionManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:08.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProductCategorization.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmProductCategorization.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmProductCategorization.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:16.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProductManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmProductManagement.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:15.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRoleManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmRoleManagement.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmRoleManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:17.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmShippingManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmShippingManagement.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\frmShippingManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Home.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\Home.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Home.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.cs [Design]",
+              "RelativeToolTip": "ManagementApplication\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:20.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmEmployeeAccountManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmEmployeeAccountManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmEmployeeAccountManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmEmployeeAccountManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmEmployeeAccountManagement.Designer.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:31:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmPeriodicReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmPeriodicReport.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmPeriodicReport.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmPeriodicReport.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmPeriodicReport.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:27:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "frmRoleManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmRoleManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmRoleManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmRoleManagement.Designer.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAPsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:06:25.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmOrderManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmOrderManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmOrderManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmOrderManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmOrderManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:49:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProductCategorization.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmProductCategorization.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductCategorization.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmProductCategorization.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:47:27.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Login.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:53:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmShippingManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmShippingManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmShippingManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmShippingManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:36:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmDiscountAndPromotionManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmDiscountAndPromotionManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmDiscountAndPromotionManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmDiscountAndPromotionManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:27:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "frmCustomerManagement.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmCustomerManagement.Designer.cs",
               "RelativeDocumentMoniker": "ManagementApplication\\frmCustomerManagement.Designer.cs",
               "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmCustomerManagement.Designer.cs",
               "RelativeToolTip": "ManagementApplication\\frmCustomerManagement.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T14:10:59.651Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmProductManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmProductManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmProductManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmProductManagement.Designer.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAqwF4BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:27:49.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmInventoryManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\frmInventoryManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\frmInventoryManagement.Designer.cs",
+              "RelativeToolTip": "ManagementApplication\\frmInventoryManagement.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:26:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\Login.cs",
+              "RelativeDocumentMoniker": "ModuleLogin\\Login.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\Login.cs [Design]",
+              "RelativeToolTip": "ModuleLogin\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:32:12.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ModuleLogin\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\Login.Designer.cs",
+              "RelativeToolTip": "ModuleLogin\\Login.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:52:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\Program.cs",
+              "RelativeToolTip": "ManagementApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:11:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\DAL\\DBContext.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\DAL\\DBContext.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\DAL\\DBContext.cs",
+              "RelativeToolTip": "ManagementApplication\\DAL\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:31:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBContext.designer.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\DAL\\DBContext.designer.cs",
+              "RelativeDocumentMoniker": "ManagementApplication\\DAL\\DBContext.designer.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ManagementApplication\\DAL\\DBContext.designer.cs",
+              "RelativeToolTip": "ManagementApplication\\DAL\\DBContext.designer.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAUwHAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:33:25.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModuleLogin.csproj",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\ModuleLogin.csproj",
+              "RelativeDocumentMoniker": "ModuleLogin\\ModuleLogin.csproj",
+              "ToolTip": "C:\\Users\\tjnk1\\OneDrive\\M\u00E1y t\u00EDnh\\ManagementApplication\\ModuleLogin\\ModuleLogin.csproj",
+              "RelativeToolTip": "ModuleLogin\\ModuleLogin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T14:44:56.018Z"
             }
           ]
         }

@@ -1,4 +1,4 @@
-﻿namespace Buoi6
+﻿namespace ManagerApp
 {
     partial class frmDiscountAndPromotionManagement
     {
@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-
+         
         #region Windows Form Designer generated code
 
         /// <summary>

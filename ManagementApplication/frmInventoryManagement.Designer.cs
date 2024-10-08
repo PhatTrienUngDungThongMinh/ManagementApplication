@@ -1,4 +1,4 @@
-﻿namespace Buoi6
+﻿namespace ManagerApp
 {
     partial class frmInventoryManagement
     {

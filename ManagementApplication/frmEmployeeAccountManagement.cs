@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Buoi6
+namespace ManagerApp
 {
     public partial class frmEmployeeAccountManagement : Form
     {
         public frmEmployeeAccountManagement()
         {
             InitializeComponent();
+        }
+
+        private void dtpFrom_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

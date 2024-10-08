@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Buoi6
+namespace ManagerApp
 {
     public partial class frmProductCategorization : Form
     {
@@ -16,5 +16,7 @@ namespace Buoi6
         {
             InitializeComponent();
         }
+
+  
     }
 }

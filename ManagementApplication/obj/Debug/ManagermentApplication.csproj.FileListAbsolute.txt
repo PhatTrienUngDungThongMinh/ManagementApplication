@@ -18,3 +18,7 @@ C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\o
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\ManagermentApplication.csproj.CoreCompileInputs.cache
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Buoi6.exe
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Buoi6.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\bin\Debug\ModuleLogin.dll
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\bin\Debug\ModuleLogin.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Buoi6.Login.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Managerm.E98B9DC6.Up2Date

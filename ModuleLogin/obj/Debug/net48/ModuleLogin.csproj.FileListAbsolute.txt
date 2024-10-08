@@ -7,3 +7,6 @@ C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\bin\Debug\n
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\bin\Debug\net48\ModuleLogin.pdb
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.dll
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.pdb
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.sourcelink.json
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.Login.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ModuleLogin\obj\Debug\net48\ModuleLogin.csproj.GenerateResource.cache

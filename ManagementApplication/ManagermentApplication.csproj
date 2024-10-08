@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DBContext.cs">
+    <Compile Include="DAL\DBContext.cs">
       <DependentUpon>DBContext.dbml</DependentUpon>
     </Compile>
-    <Compile Include="DBContext.designer.cs">
+    <Compile Include="DAL\DBContext.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DBContext.dbml</DependentUpon>
@@ -128,11 +128,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="DBContext.dbml.layout">
+    <None Include="DAL\DBContext.dbml.layout">
       <DependentUpon>DBContext.dbml</DependentUpon>
     </None>
     <EmbeddedResource Include="frmCustomerManagement.resx">
       <DependentUpon>frmCustomerManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeAccountManagement.resx">
+      <DependentUpon>frmEmployeeAccountManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShippingManagement.resx">
+      <DependentUpon>frmShippingManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -144,7 +153,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="DBContext.dbml">
+    <None Include="DAL\DBContext.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
       <LastGenOutput>DBContext.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
@@ -160,10 +169,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="DAL\App.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ModuleLogin\ModuleLogin.csproj">
+      <Project>{741a58fb-5501-4d7b-981b-68ef19674909}</Project>
+      <Name>ModuleLogin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\logo.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

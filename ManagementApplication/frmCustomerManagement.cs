@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Buoi6
+namespace ManagermentApplication
 {
     public partial class frmCustomerManagement : Form
     {
