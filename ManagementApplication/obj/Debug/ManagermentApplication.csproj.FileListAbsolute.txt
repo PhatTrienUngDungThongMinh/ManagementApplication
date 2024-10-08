@@ -22,3 +22,5 @@ C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\b
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\bin\Debug\ModuleLogin.pdb
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Buoi6.Login.resources
 C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Managerm.E98B9DC6.Up2Date
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\ManagerApp.frmEmployeeAccountManagement.resources
+C:\Users\tjnk1\OneDrive\Máy tính\ManagementApplication\ManagementApplication\obj\Debug\Buoi6.frmShippingManagement.resources

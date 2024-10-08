@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ManagerApp
+namespace Buoi6
 {
     public partial class frmOrderManagement : Form
     {
